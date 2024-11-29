@@ -72,8 +72,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Yassine-X/RosettaFucker">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassine-X&repo=RosettaFucker&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/Yassine-X/RosettaAbuser">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassine-X&repo=RosettaAbuser&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
