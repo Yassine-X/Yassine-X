@@ -100,7 +100,7 @@
 <h2 align="center">🎵 Wʜᴀᴛ I'ᴍ Lɪsᴛᴇɴɪɴɢ Tᴏ 🎵</h2>
 
 <p align="center">
-    <a href="https://github.com/kittinan/spotify-github-profile">
+    <a href="">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rqojnkamvvxlswhzfwegpqywi4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ed66ff&bar_color_cover=true">
     </a>
 </p>
