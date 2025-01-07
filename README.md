@@ -14,11 +14,6 @@
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for React.js, Node.js, Django, MERN, PHP, REST API and Data Visualization. </p>
 
-- 🎓 Second-year Economics student.
-- 🌟 Exploring creativity in everyday life.
-- ❤️ Open source contributor and lifelong learner.
-- ✍️ Sharing ideas through blogs and projects.
-- 🌐 Building a future, one step at a time.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
