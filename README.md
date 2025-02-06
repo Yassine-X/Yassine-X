@@ -2,9 +2,7 @@
 ![YsnX-Banner](https://cdn.discordapp.com/attachments/1164564693101314178/1310619730561990746/banner.png?ex=67a4247d&is=67a2d2fd&hm=ab99239f0d240fd4d0c57f4724b2d1f4785fca3399b20b9a3abc66b517b7e4d0&)
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey There ! i'm Yassine
@@ -12,7 +10,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for React.js, Node.js, Django, MERN, PHP, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer with a huge love for Php, Dart, flutter, Ajax, React.js, Node.js, Django, MERN, REST API and Data Visualization. </p>
 
 <!--End Intro-->
 
@@ -27,7 +25,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,django,postgres,mongo,dart,php,flutter,git,vscode,postman,linux&perline=10"  />
 </p>
 <br />
 
