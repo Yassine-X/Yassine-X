@@ -1,5 +1,5 @@
 <!--Banner-->
-![YsnX-Banner](https://cdn.discordapp.com/attachments/1038835383347204196/1342994469275963463/banner.png?ex=67bba891&is=67ba5711&hm=2ee9bcffb755261900492b154cac56ca092fc0af21e429197d3b3f1c640afff8&)
+![YsnX-Banner](https://media.discordapp.net/attachments/1164564693101314178/1310619730561990746/banner.png?ex=67d9893d&is=67d837bd&hm=1c2a5869c4531714f5e903b3f9e65b898245b42ac99bfd56fa749c800ccded09&=&format=webp&quality=lossless&width=1872&height=465)
 
 <!--Night Owl image-->
 
