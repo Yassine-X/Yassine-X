@@ -34,7 +34,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yassine-X&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yassine-X&row=2&column=8&margin-w=20&margin-h=20&theme=onedark" alt="GitHub Trophies">
   </a>
 </p>
 <br />
