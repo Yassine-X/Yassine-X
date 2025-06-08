@@ -6,11 +6,10 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514062/184/nyancat_big.gif?1643514062" width="30"/> Hey There ! i'm Yassine
-*(Developer / Programmer)*
 <br />
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer with a huge love for Php, Dart, flutter, Ajax, React.js, Node.js, Django, MERN, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer with a huge love for Php, Ajax, React.js, Node.js, Django, MERN, REST API and Data Visualization. </p>
 
 <!--End Intro-->
 
