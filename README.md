@@ -65,7 +65,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Yassine-X/RosettaAbuser">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassine-X&repo=RosettaAbuser&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Yassine-X&repo=RosettaAbuser&theme=nightowl&show_owner=true" alt="tzz" />
         </a>
       </p>
     </td>
