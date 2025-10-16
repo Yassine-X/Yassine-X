@@ -8,7 +8,7 @@
 <!--Start Intro-->                 
 <p align="left">I am a Full Stack Developer with a huge love for Php, Ajax, React.js, Node.js, Django, MERN, REST API and Data Visualization. </p>
 
-<!--End Intro-->
+<!--End Intro--> 
 
 <!--Profile Count Badge-->
 <p align="left">
